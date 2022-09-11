@@ -1,0 +1,27 @@
+{
+  "Biography": {
+    "bio1": "My name is Prasath S. ",
+    "bio2": "I am a React developer graduating from ",
+    "bio3": "Uki Coding School ",
+    "bio4": "this summer (Uki cohort 2022). ",
+    "bio5": "I am familiar with the MERN framework which includes ",
+    "bio6": "MongoDB, Express, React and node.js.",
+    "bio7": "I am looking to join an interesting position where I can apply my skills and take them to the next level. ",
+    "bio8": "You can reach out via ",
+    "bio9": "",
+    "bio10": "",
+    "email": "email."
+  },
+  "Hero": {
+    "title": "Prasath S.",
+    "subtitle": {
+      "reactDev": "React developer",
+      "cricketPlayer": "Cricket player",
+      "hobbyPhotographer": "Hobby photographer"
+    }
+  },
+  "LanguageSwitch": {
+    "english": "English",
+    "tamil": "Tamil"
+  }
+}
