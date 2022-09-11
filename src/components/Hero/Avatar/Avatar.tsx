@@ -1,4 +1,5 @@
 import clsx from 'clsx'
+import razapic from './raza-profile.png'
 
 export interface Props {
   className?: string
@@ -6,9 +7,11 @@ export interface Props {
 
 const Avatar = ({ className }: Props) => {
   return (
-    <div className={clsx(className)}>
-      <span>Avatar</span>
-    </div>
+    <div
+    className={clsx('mx-auto flex justify-center w-60 lg:w-70', className)}
+  >
+    <img alt="Profile avatar" src={razapic} />
+  </div>
   )
 }
 
