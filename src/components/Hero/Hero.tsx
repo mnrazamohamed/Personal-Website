@@ -1,4 +1,6 @@
 import clsx from 'clsx'
+import Avatar from './Avatar'
+import Title from './Title'
 
 export interface Props {
   className?: string

@@ -1,16 +1,15 @@
 import clsx from 'clsx'
-import SocialMedia from './SocialMedia'
 
 export interface Props {
   className?: string
 }
 
-const Footer = ({ className }: Props) => {
+const LanguageSwitch = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
-      <span>Footer</span>
+      <span>LanguageSwitch</span>
     </div>
   )
 }
 
-export default Footer
+export default LanguageSwitch
