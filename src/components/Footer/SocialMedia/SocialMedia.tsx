@@ -10,12 +10,12 @@ const SocialMedia = ({ className }: Props) => {
   return (
     <ul className={clsx(className, 'flex gap-2 fill-current')}>
       <li className="w-8">
-        <a href="https://www.github.com/soosap">
+        <a href="https://www.facebook.com/astroraza">
           <FacebookLogo />
         </a>
       </li>
       <li className="w-8">
-        <a href="https://www.facebook.com/soosap">
+        <a href="https://www.github.com/mnrazamohamed">
           <GithubLogo />
         </a>
       </li>

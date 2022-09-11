@@ -10,6 +10,8 @@ const Header = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
       <span>Header</span>
+      <ThemeSwitch />
+      <LanguageSwitch />
     </div>
   )
 }

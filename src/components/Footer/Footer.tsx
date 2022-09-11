@@ -9,6 +9,9 @@ const Footer = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
       <span>Footer</span>
+      <div>
+          <SocialMedia />
+        </div>
     </div>
   )
 }

@@ -9,6 +9,8 @@ export interface Props {
 const Hero = ({ className }: Props) => {
   return (
     <div className={clsx(className)}>
+      <Avatar />
+      <Title />
       <span>Hero</span>
     </div>
   )
