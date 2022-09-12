@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "version": "0.1.0",
-  "homepage": "https://mnrazamohamed.github.io/Personal-Website/",
+  "homepage": "https://mnrazamohamed.github.io/personal-website/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
