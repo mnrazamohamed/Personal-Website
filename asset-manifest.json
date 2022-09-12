@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.57374e8b.css",
+    "main.js": "/personal-website/static/js/main.9a9192d3.js",
+    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/raza-profile.png": "/personal-website/static/media/raza-profile.a5f08f0bc5645c4bf006.png",
+    "static/media/yarl-it-hub-logo.png": "/personal-website/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
+    "static/media/uki-logo.png": "/personal-website/static/media/uki-logo.42b49f3b43fce7c9b177.png",
+    "static/media/github-logo.svg": "/personal-website/static/media/github-logo.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/facebook-logo.svg": "/personal-website/static/media/facebook-logo.2dd5bdd216194f5edc8cf589f0378383.svg",
+    "main.57374e8b.css.map": "/personal-website/static/css/main.57374e8b.css.map",
+    "main.9a9192d3.js.map": "/personal-website/static/js/main.9a9192d3.js.map",
+    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57374e8b.css",
+    "static/js/main.9a9192d3.js"
+  ]
+}
