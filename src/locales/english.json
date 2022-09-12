@@ -1,7 +1,7 @@
 {
   "Biography": {
-    "bio1": "My name is Prasath S. ",
-    "bio2": "I am a React developer graduating from ",
+    "bio1": "My name is Raza Mohamed. ",
+    "bio2": "I am a full stack developer graduating from ",
     "bio3": "Uki Coding School ",
     "bio4": "this summer (Uki cohort 2022). ",
     "bio5": "I am familiar with the MERN framework which includes ",
@@ -15,13 +15,13 @@
   "Hero": {
     "title": "Prasath S.",
     "subtitle": {
-      "reactDev": "React developer",
-      "cricketPlayer": "Cricket player",
-      "hobbyPhotographer": "Hobby photographer"
+      "reactDev": "Full Stack Developer",
+      "cricketPlayer": "Designer",
+      "hobbyPhotographer": "Hobby Playing Games"
     }
   },
   "LanguageSwitch": {
     "english": "English",
-    "tamil": "Tamil"
+    "tamil": "தமிழ்"
   }
 }
